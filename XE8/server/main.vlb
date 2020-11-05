@@ -1,0 +1,17 @@
+﻿[ImageList1]
+Coordinates=301,379,68,33
+
+[]
+Coordinates=311,71,47,51
+Visible=True
+ExplicitSubNodes=Enabled
+
+[Module Settings]
+ModelLayerNames=NewLayer0
+ActiveLayerNames=
+EditingLayerName=NewLayer0
+
+[gbSnapNew]
+Coordinates=610,70,70,69
+ExplicitSubNodes=enabled
+

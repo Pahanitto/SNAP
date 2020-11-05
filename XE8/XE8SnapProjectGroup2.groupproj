@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{E6D09585-EC37-4EFC-A1EE-CAB89BB0940E}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="server\XE8SnapDSSMProj.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="client\SnapClient.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="XE8SnapDSSMProj">
+        <MSBuild Projects="server\XE8SnapDSSMProj.dproj"/>
+    </Target>
+    <Target Name="XE8SnapDSSMProj:Clean">
+        <MSBuild Projects="server\XE8SnapDSSMProj.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="XE8SnapDSSMProj:Make">
+        <MSBuild Projects="server\XE8SnapDSSMProj.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SnapClient">
+        <MSBuild Projects="client\SnapClient.dproj"/>
+    </Target>
+    <Target Name="SnapClient:Clean">
+        <MSBuild Projects="client\SnapClient.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SnapClient:Make">
+        <MSBuild Projects="client\SnapClient.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="XE8SnapDSSMProj;SnapClient"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="XE8SnapDSSMProj:Clean;SnapClient:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="XE8SnapDSSMProj:Make;SnapClient:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.150,=D:\__work\sql\mtg-biz\XE8\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,D:\__work\sql\mtg-biz\XE8\server\Unit1.pas=D:\__work\sql\mtg-biz\XE8\server\uStats.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,D:\__work\sql\mtg-biz\XE8\server\XE8SnapDSSMProj.dproj=D:\__work\Project6.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,=D:\__work\sql\mtg-biz\XE8\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,=D:\__work\sql\mtg-biz\XE8\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.731,=D:\__work\sql\mtg-biz\XE8\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,D:\__work\sql\mtg-biz\XE8\server\vars.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,D:\__work\sql\mtg-biz\XE8\server\ServerContainerUnit1.pas=D:\__work\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,=D:\__work\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,D:\__work\sql\mtg-biz\XE8\server\MemoWin.pas=D:\__work\sql\mtg-biz\XE8\server\memo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,D:\__work\sql\mtg-biz\XE8\server\memo.pas=D:\__work\sql\mtg-biz\XE8\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,D:\__work\sql\mtg-biz\XE8\server\vars.pas=D:\__work\sql\mtg-biz\XE8\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,D:\__work\sql\mtg-biz\XE8\server\ServerMethodsUnit1.pas=D:\__work\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,D:\__work\sql\mtg-biz\XE8\server\main.dfm=D:\__work\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,D:\__work\sql\mtg-biz\XE8\server\main.pas=D:\__work\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,D:\__work\sql\mtg-biz\XE8\server\utils.pas=D:\__work\sql\mtg-biz\XE8\server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,D:\__work\sql\mtg-biz\XE8\server\utils.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=D:\__work\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,=D:\__work\AppletModule1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.457,=D:\__work\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,D:\__work\sql\mtg-biz\XE8\server\ServerMethodsUnit1.dfm=D:\__work\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,D:\__work\sql\mtg-biz\XE8\server\ServerContainerUnit1.dfm=D:\__work\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,D:\__work\sql\mtg-biz\XE8\server\MemoWin.dfm=D:\__work\sql\mtg-biz\XE8\server\memo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,D:\__work\sql\mtg-biz\XE8\server\memo.dfm=D:\__work\sql\mtg-biz\XE8\server\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

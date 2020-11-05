@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.740,=D:\__work\sql\mtg-biz\XE8\client\New1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,D:\__work\sql\mtg-biz\XE8\client\New1.txt=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=D:\__work\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,=D:\__work\AppletModule1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,D:\__work\sql\mtg-biz\XE8\client\clmain.dfm=D:\__work\Unit7.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,D:\__work\sql\mtg-biz\XE8\client\clmain.pas=D:\__work\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,D:\__work\sql\mtg-biz\XE8\client\SnapClient.dproj=D:\__work\Project6.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
